@@ -15,7 +15,7 @@ Real time Face, gait estimation using Opencv, Scikit-learn, pandas library in Ju
 
 ## Jupyter Notebook
 
-Install Jupyter notebook with pip command.
+Install Jupyter notebook with pip command in the terminal or command prompt.
 
 ```bash
   pip install notebook
